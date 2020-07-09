@@ -79,6 +79,7 @@
     <Compile Include="LeetCode\07012017.cs" />
     <Compile Include="LeetCode\08052017.cs" />
     <Compile Include="LeetCode\InsertDeleteGetRandomO1.cs" />
+    <Compile Include="LeetCode\July\3Sum.cs" />
     <Compile Include="LeetCode\July\BinaryTreeLevelOrderTraversal2.cs" />
     <Compile Include="LeetCode\July\IslandPerimeterClass.cs" />
     <Compile Include="LeetCode\July\PrisonCellsAfterNDays.cs" />

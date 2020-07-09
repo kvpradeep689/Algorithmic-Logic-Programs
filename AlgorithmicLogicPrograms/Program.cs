@@ -69,7 +69,8 @@ namespace ConsoleApplication1
             //LeetCode.July.BinaryTreeLevelOrderTraversal2.Run();
             //LeetCode.July.PrisonCellsAfterNDays.Run();
             //LeetCode.July.UglyNumberII.Run();
-            LeetCode.July.IslandPerimeterClass.Run();
+            //LeetCode.July.IslandPerimeterClass.Run();
+            LeetCode.July.ThreeSumClass.Run();
 
             Console.WriteLine();
             Console.WriteLine("Process Completed");
